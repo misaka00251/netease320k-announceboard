@@ -30,7 +30,7 @@ Well, we haven't finish develop yet...
 
 # How to install?
  * 1.Just clone it to your server:
- 
+ ``git clone https://github.com/misaka00251/netease320k-announceboard.git``
  * 2.Run setup.php, select and specify settings of database you prefer. For sqlite usage make sure that database file 'db/todolist.db' is writable for webserver/php.Then click "Install" to create tables in database. It's recommended to delete this file after installation.
  * 3.To protect your tasks from modification by the others you may specify password in settings. By default session files are stored in 'tmp/sessions' directory. Make sure it's writable for webserver/php.
  * 4.Open 'index.php' in your browser to run the application. Then go to settings and specify your time zone.
