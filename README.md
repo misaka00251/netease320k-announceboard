@@ -15,7 +15,8 @@
 * Password protection
 * Smart syntax improves creation of tasks (usage: /priority/ Task /tags/)
 * Print-friendly CSS
-* Style for mobiles devices 
+* Style for mobiles devices
+
 ## This project will:
 Well, we haven't finish develop yet...
 * Protect your notes (only you can see).
