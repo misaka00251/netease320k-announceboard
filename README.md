@@ -1,6 +1,6 @@
 # What is this?
- This is used by Netease cloudmusic to deal with the music quality, whick is based on [myTinyTodo](http://www.mytinytodo.net/).
- You can find our Demo [here](http://163.uushare.info/announce/).
+ This is used by Netease cloudmusic to deal with the music quality, which is based on [myTinyTodo](http://www.mytinytodo.net/).
+ You can find our Project site [here](http://163.uushare.info/announce/).
  If you find any issue please post [here](https://github.com/misaka00251/netease320k-announceboard/issues/new).
 
 # Fetures
@@ -19,7 +19,7 @@
 
 ## This project will:
 Well, we haven't finish develop yet...
-* Protect your notes (only you can see).
+* Protect your notes (only you can see)
 * Guests post
 * Output into JPG & PNG format
 
